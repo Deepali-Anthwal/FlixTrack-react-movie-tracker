@@ -42,6 +42,3 @@ FlixTrack is a dynamic web application built with React that allows users to exp
 *   Start the development server:
     npm start
 *   The app will run at "http://localhost:3000".
-*   The app will run at `http://localhost:3000`.
-
----
